@@ -1,2 +1,2 @@
-# ReadeMe
+# README
 practice
